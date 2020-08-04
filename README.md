@@ -4,8 +4,7 @@
 - I'm developer since 2009
 - I’m currently learning everything I need and a little more 🤣
 
-
-## Stacks Experience
+## Stacks
 
 ### Data Access
 SQL Databases and NoSql Database (MongoDB, CouchDB, Redis and Elastic Search)
@@ -15,18 +14,19 @@ Consul, Eureka, Graylog, Config Cloud, AWS
 
 ### Platform
 Docker, Terraform, CI.
+
 AWS: VPC, EC2, ECS, AWS Batch, AWS Lambda, S3, IAM.
 
-### Java / Kotlin (since 2017)
+### Java / Kotlin
 #### Spring Framework
-Knowledges: Cloud, Web, Data, Rest, JPA, Feign, Reactive, Batch, Cammel, Quartz, etc.
+Cloud, Web, Data, Rest, JPA, Feign, Reactive, Batch, Cammel, Quartz, etc.
 #### Micronaut
 
 Projects: [micronaut-ebean-example](https://github.com/allangomessl/micronaut-ebean-example) and [micronaut-kotlin-coroutines](https://github.com/allangomessl/micronaut-kotlin-coroutines)
 
 <br />
 
-### Javascript / Typescript (since 2016)
+### Javascript / Typescript
 
 #### Node
 Mediatr: [mediatr](https://github.com/allangomessl/mediatr)
@@ -37,13 +37,13 @@ Public Projects: [universe-ui](https://github.com/allangomessl/universe-ui), [me
 
 <br />
 
-### C# (since 2012)
-#### asp.net
+### C#
+#### Asp.Net
 
 
 <br />
 
-### Ruby (since 2011)
+### Ruby
 #### Rails
 Active Record, Jobs, Rest Api
 
@@ -52,14 +52,16 @@ Active Record, Jobs, Rest Api
 
 <br />
 
-### Python (since 2019)
+### Python
 
 Experience: Jupyter Projects for Prototyping and Data Engineering
 
 <br />
 
-### Golang (since 2018)
+### Golang
 
-Experience: Study case and Small Project
+<br />
+
+### Delphi
 
 <br />
