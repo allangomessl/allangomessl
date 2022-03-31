@@ -1,69 +1,68 @@
 # Hi there, Allan here 👋
 
-## I'm Senior Full Stack Developer 
+I'm Senior Full Stack Developer 
 
-I'm developer since 2009
+I'm coding since 2009 🚀
+
+<br>
+
+## Articles
+
+O que é blockchain?
+https://allangomessl.notion.site/O-que-blockchain-b5495b282e334b5097caa6b7062349c2
+
+<br>
+
+## Backend
+
+Languages: <br>
+`Kotlin` `C#` `Typescript` `elixir` `Java` `golang` `ruby` 
+
+<br>
+
+Runtimes: <br>
+`#JVM` `.Net` `Node` `Deno`
+
+<br>
+
+Patterns & Architectures: <br>
+`Microservices` `Hexagonal` `DDD` `CQRS` `Event Driven Design`
+
+<br>
+
+Caches & Databases: <br>
+`MongoDB` `Elastic Search` `Postgresql` `DynamoDB` `Redis` `MySQL`
+
+<br>
+
+Message Brokers: <br>
+`Kafka` `RabbitMQ`
+
+<br>
+
+Deployment: <br>
+`Docker` `CI` `CD`
+
+<br>
+
+## Frontend
+
+Languages: <br>
+`Typescript`
+
+<br>
+
+Libraries: <br>
+`React` `React-Native` `Expo`
+
+<br>
+
+## Infrastructure
 
 
-
-## Stacks
-
-### Data Access
-SQL Databases and NoSql Database (MongoDB, CouchDB, Redis and Elastic Search)
-
-### Microservice
-Consul, Eureka, Graylog, Config Cloud, AWS
-
-### Platform
-Docker, Terraform, CI.
-
-AWS: VPC, EC2, ECS, AWS Batch, AWS Lambda, S3, IAM.
-
-### Java / Kotlin
-#### Spring Framework
-Cloud, Web, Data, Rest, JPA, Feign, Reactive, Batch, Cammel, Quartz, etc.
-#### Micronaut
-
-Projects: [micronaut-ebean-example](https://github.com/allangomessl/micronaut-ebean-example) and [micronaut-kotlin-coroutines](https://github.com/allangomessl/micronaut-kotlin-coroutines)
-
-<br />
-
-### Javascript / Typescript
-
-#### Node
-Mediatr: [mediatr](https://github.com/allangomessl/mediatr)
-
-#### React
-
-Public Projects: [universe-ui](https://github.com/allangomessl/universe-ui), [mediatr-ui](https://github.com/allangomessl/mediatr-ui) and [kanban-react](https://github.com/allangomessl/kanban-react)
-
-<br />
-
-### C#
-#### Asp.Net
+Languages: <br>
+`Terraform` `Pulumi`
 
 
-<br />
-
-### Ruby
-#### Rails
-Active Record, Jobs, Rest Api
-
-**Experience**: Small projects for build API and Full App
-**Public Projects** [kanban-ruby](https://github.com/allangomessl/kanban-ruby)
-
-<br />
-
-### Python
-
-Experience: Jupyter Projects for Prototyping and Data Engineering
-
-<br />
-
-### Golang
-
-<br />
-
-### Delphi
-
-<br />
+AWS: <br>
+`ECS` `AWS Lambda` `Api Gateway` `SSM`
