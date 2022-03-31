@@ -1,8 +1,10 @@
 # Hi there, Allan here 👋
 
 ## I'm Senior Full Stack Developer 
-- I'm developer since 2009
-- I’m currently learning everything I need and a little more 🤣
+
+I'm developer since 2009
+
+
 
 ## Stacks
 
